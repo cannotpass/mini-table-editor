@@ -1,0 +1,9 @@
+# Foldery
+venv
+.idea
+
+# Pliki
+*.csv
+
+# Environments
+.env
